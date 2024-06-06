@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
+<resources>
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#FFFFFF</item> <!-- Border color -->
+        <item name="hintTextColor">@color/white</item> <!-- Hint text color -->
+    </style>
+
+    <style name="CustomTextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">#FFFFFF</item> <!-- Text color -->
+        <item name="android:textColorHint">#FFFFFF</item> <!-- Hint text color -->
+    </style>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <color name="grey">#B0B0B0</color>
+    <color name="black">#000000</color>
+    <!-- Existing colors -->
+    <color name="x_shape_fill">#FF5722</color>
+    <color name="x_shape_stroke">#FFFFFF</color>
+    <color name="o_shape_fill">#00BCD4</color>
+    <color name="o_shape_stroke">#FFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="text_color">#333333</color>
+    <color name="button_text_color">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="my_light_primary">#6200EE</color>
+    <color name="my_light_primary_variant">#3700B3</color>
+    <color name="my_on_primary">#FFFFFF</color>
+    <color name="my_light_secondary">#03DAC6</color>
+    <color name="my_light_secondary_variant">#018786</color>
+    <color name="my_on_secondary">#000000</color>
+</resources>
